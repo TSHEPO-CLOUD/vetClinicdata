@@ -93,6 +93,12 @@ Feel free to check the [issues page](https://github.com/TSHEPO-CLOUD/vetClinicda
 - Twitter: [@ShonibareC](https://twitter.com/ShonibareC)
 - Linkedin: [Adewunmi Shonibare](https://www.linkedin.com/in/adewunmi97)
 
+👤 **Tshepo David**
+
+- GitHub: [@githubhandle](https://github.com/TSHEPO-CLOUD)
+- Twitter: [Twetter](https://twitter.com/tshepomolefem)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/tshepo-molefe-8153313b)
+
 
 ## Acknowledgements
 
